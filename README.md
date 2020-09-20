@@ -1,8 +1,7 @@
-# Introductory-programming-with-Java-Core
 ### Self-taught Java Developer Full-Stack.
 
 I am a new learner that is passionate in learning programming. I have a change to get the guide from one of former software engineering to start learning Full-Stack Java Developer. 
-Below is the main courses that I need to learn: 
+Below is all courses that I need to learn: 
 - Introductory programming with Java Core
 - Database and SQL query language (using database management system: SQL Server, MySQL)
 - Object Oriented Programming with Java OOP
@@ -17,4 +16,4 @@ Below is the main courses that I need to learn:
 - Unit testing
 - Final Project Implementation (Mock Project)
 
-In this section, I show all the basic algorithm excersises that I leanrt so far. 
+If you're a new learner like me, and do not know where to start, the above outline courses are helpful for you!!
