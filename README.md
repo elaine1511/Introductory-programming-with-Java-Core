@@ -1,5 +1,5 @@
 # Introductory-programming-with-Java-Core
-Self-taught Java Developer Full-Stack.
+### Self-taught Java Developer Full-Stack.
 
 I am a new learner that is passionate in learning programming. I have a change to get the guide from one of former software engineering to start learning Full-Stack Java Developer. 
 Below is the main courses that I need to learn: 
