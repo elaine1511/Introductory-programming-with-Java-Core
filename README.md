@@ -10,9 +10,11 @@ Below is the main courses that I need to learn:
 - Handling Exception and regular expressions in Java
 - Programming with Java Collections
 - Database connection in Java
-- Basic Front-End languages ​​(HTML5, CSS3, Javascript, JQuery, Bootstrap 4, AJAX)
+- Basic Front-End languages (HTML5, CSS3, Javascript, JQuery, Bootstrap 4, AJAX)
 - Basic Back-End language JSP, Servlet following MVC model
 - Spring Framework (Spring MVC, Spring Boot, Spring JPA ...)
 - Hibernate Framework
 - Unit testing
 - Final Project Implementation (Mock Project)
+
+In this section, I show all the basic algorithm excersises that I leanrt so far. 
